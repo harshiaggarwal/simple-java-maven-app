@@ -5,6 +5,7 @@ I forked this repository to build a test pipeline using "pipeline script from SC
 I updated the `jenkinsfile` to change agent to any.
 I also updated the `pom.xml file` to change the limit of maven version allowed.
 
+I also created a new branch `newpipeline` and added a `new stage` in its jenkinsfile to test my demo multibranch pipeline.
 
 # simple-java-maven-app
 
