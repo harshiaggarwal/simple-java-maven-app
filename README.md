@@ -1,9 +1,9 @@
 # simple-java-maven-app-forked
 
-I forked this repository to build a test pipeline using "pipeline script from SCM" option.
+I forked this repository to build a test pipeline using "pipeline script from SCM" option in Jenkins.
 
-I updated the jenkinsfile to change agent to any.
-I also updated the pom.xml file to change the limit of maven version allowed.
+I updated the 'jenkinsfile' to change agent to any.
+I also updated the 'pom.xml file' to change the limit of maven version allowed.
 
 
 # simple-java-maven-app
